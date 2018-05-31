@@ -7,7 +7,6 @@ class Home extends Component {
     return (
       <div className="home-container">
         <Link to="about" className="link-button">Home To About</Link>
-        <button onClick={sayHello} className="say-hello-button">Say Hello Async</button>
       </div>
     )
   }

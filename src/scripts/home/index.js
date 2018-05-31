@@ -11,8 +11,7 @@ class Container extends Component {
   render() {
     return (
       <div className="home-container">
-        <Home
-          sayHello={this.sayHello} />
+        <Home />
       </div>
     )
   }
