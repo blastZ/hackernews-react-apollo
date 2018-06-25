@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This app is used to exercise how to use graphql in react with apollo-client.
+This app is used to practice how to use graphql in react with apollo-client.
 
 ### Installation
 
