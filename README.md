@@ -1,13 +1,8 @@
-## react-boilerplate
+## hackernews-react-apollo
 
-### Features
+### Introduction
 
-- React 16
-- Webpack 4
-- Babel
-- React Router 4
-- Redux
-- Redux Saga
+This app is used to exercise how to use graphql in react with apollo-client.
 
 ### Installation
 

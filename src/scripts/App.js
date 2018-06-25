@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <Switch>
-        <Route exact path="/" component={asyncComponent(() => import('./home'))} />
+        <Route path="/" component={asyncComponent(() => import('./home'))} />
       </Switch>
     )
   }
